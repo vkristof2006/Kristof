@@ -1,0 +1,68 @@
+html{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+body{
+    background-image: url(banner.jpg);
+    background-attachment: fixed;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    font-family: Verdana;
+}
+a{
+    font-size: 25px;
+    color: white;
+}
+
+
+.class{
+    width: 600px;
+    text-align: center;
+}
+
+h2{
+    font-family: Verdana;
+}
+
+table{
+    border: 5px;
+    border-spacing: 2px;
+    padding: 10px;
+    text-align: center;
+    border-color: white;
+    background-color: lightsalmon;
+    color: green;
+    font-family: 'Times New Roman';
+
+}
+
+p{
+    text-align: center;
+}
+
+.lucky{
+    width: 3%;
+}
+
+.linkek{
+    text-align: left;
+}
+
+.lucky2{
+    width: 2%;
+    background-color: white;
+}
+
+img{
+    margin: 6px;
+}
+
+.adatok{
+    text-align: left;
+}
+
+.table2{
+    background-color: darkgreen;
+}
