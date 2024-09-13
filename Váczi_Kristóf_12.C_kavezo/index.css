@@ -10,9 +10,10 @@ body{
     background-size: cover;
     background-position: center;
     font-family: Verdana;
+    
 }
 a{
-    font-size: 25px;
+    font-size: 20px;
     color: white;
 }
 
@@ -35,7 +36,6 @@ table{
     background-color: lightsalmon;
     color: green;
     font-family: 'Times New Roman';
-
 }
 
 p{
@@ -64,5 +64,11 @@ img{
 }
 
 .table2{
+    background-color: darkgreen;
+    font-size: 100%;
+    color: white;
+}
+
+.links{
     background-color: darkgreen;
 }
